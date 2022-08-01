@@ -104,4 +104,4 @@ for i in exts:
     bot.load_extension(i)
 
 
-bot.run("MTAwMjUzNTI4MDMzNjcwMzU1OQ.GfPuLB.7wUU4wXuo_ZTQIfrhRnIrySNI2L_R3E0R0bceo")
+bot.run("TOKEN")
